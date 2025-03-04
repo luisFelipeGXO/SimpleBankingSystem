@@ -32,9 +32,9 @@ How to Run the Project
 
 ```
 --------------------------------------------------
- | NAME: João
- | CPF: 123456789
- | BALANCE: R$ 200.0
+| NAME: John
+| SSN (SOCIAL SECURITY NUMBER): 123-12-12345
+| ACCOUNT BALANCE: US$200.0
 --------------------------------------------------
 ...
 ```
